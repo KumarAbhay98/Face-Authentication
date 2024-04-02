@@ -54,7 +54,7 @@ This application is deployed using Vercel. You can deploy your own instance by f
 
 ## Authors
 
-- [Your Name](https://github.com/yourusername)
+- [Abhay Kumar](https://github.com/KumarAbhay98)
 
 ## License
 
