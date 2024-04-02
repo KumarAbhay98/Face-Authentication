@@ -1,5 +1,58 @@
 # Full Stack MERN Application with Face Recognition
 
+# Full-Stack Task
+
+## Overview
+
+This project is a full-stack web application developed as a task. It incorporates user registration, login, and image handling functionalities using various technologies and services. Below is a detailed overview of the project.
+
+## Tech Stack
+
+### Frontend
+- React.js with TailwindCSS for styling
+- React-Router DOM v6 for routing
+
+### Backend
+- Express.js
+
+### Database
+- MongoDB
+
+### External Service
+- face-api.js
+
+## Demo URLs
+
+### Frontend
+- [Frontend Demo](https://codebugged-task.vercel.app/)
+
+### Backend
+- [Backend Demo](https://codebugged-server.vercel.app)
+
+## Features Overview
+
+- **Pages:** Created pages as mentioned in the task description:
+  - `/` to display user information and pictures.
+  - `/login` where users can log in using their username and picture.
+  - `/register` to register their face.
+
+- **API Endpoints:** Developed API endpoints using Express.js:
+  - `/api/users`: POST Method for user registration, storing user info in the database.
+  - `/api/auth`: POST Method to authenticate users.
+  - `/api/images`: GET and POST methods for getting and uploading images.
+
+- **Responsive Design:** Created a responsive design to ensure compatibility across various devices.
+
+- **Deployment:** Both frontend and backend are deployed on Vercel.
+
+## Setup
+
+1. Clone the project:
+
+```bash
+git clone https://github.com/kamal9494/codebugged-task
+
+
 This is a full-stack MERN (MongoDB, Express, React, Node.js) application that incorporates face recognition using face-api.js. The application allows users to register and login using their username and facial recognition.
 
 ## Face Recognition with face-api.js
@@ -43,13 +96,7 @@ To run this application locally, follow these steps:
 5. Start the server: `npm start`
 6. Open your browser and navigate to `http://localhost:3000`
 
-   # Note
 
-I am currently in the process of troubleshooting deployment issues with this project. While the application functions flawlessly on my local machine, I have encountered difficulties deploying it on Vercel. Despite numerous attempts, I have been unable to resolve the issue, particularly regarding the CSS files not loading correctly on Vercel.
-
-Rest assured, I am actively working to rectify these issues. In the meantime, I have prepared a video demonstration showcasing the correct functionality of the application on my local environment. You can view the video [here](https://drive.google.com/file/d/1wuhj7pE_iXwg113zIzPC8GctMFitF-ut/view?usp=sharing).
-
-Your patience and understanding are greatly appreciated as I work to resolve these deployment issues.
 
 
 ## Deployment
