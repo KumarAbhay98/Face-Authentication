@@ -4,6 +4,9 @@
 
 This project is a full-stack web application developed as a task. It incorporates user registration, login, and image handling too.Below is a detailed overview of the project.
 
+### Note: 
+Sometimes running the link of the website can show internal server error but it will work after one or two clicks!
+
 ## Tech Stack
 
 ### Frontend
