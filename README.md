@@ -61,31 +61,21 @@ This project is a full-stack web application developed as a task. It incorporate
 1. Clone the project:
 
 ```bash
-git clone https://github.com/kamal9494/codebugged-task
-
-
+https://github.com/KumarAbhay98/Face-Authentication.git
+```
+2. Navigate to Client and run
+```bash
+cd client
+npm install
+npm run dev
+```
+3.Navigate to server to run backend
+```bash
+cd server
+npm install
+npm run dev
+```
 This is a full-stack MERN (MongoDB, Express, React, Node.js) application that incorporates face recognition using face-api.js. The application allows users to register and login using their username and facial recognition.
-
-## Face Recognition with face-api.js
-
-The face-api.js library is a powerful JavaScript tool for face detection, recognition, and analysis. It provides various functionalities such as face detection, face landmark detection, and face recognition. In this application, face-api.js is used to enhance the authentication process by allowing users to register and login using their facial features.
-
-## Components of the Website
-
-### Registration
-
-- Users can register using their username and facial features.
-- The registration process involves capturing the user's face using their device's camera and storing it securely in the database.
-
-### Login
-
-- Registered users can log in using their username and facial recognition.
-- The login process compares the user's facial features captured during registration with the features detected during login to authenticate the user.
-
-### Home Page
-
-- Upon successful login, users are redirected to the home page.
-- The home page provides various features and functionalities, depending on the application's purpose.
 
 ### Technologies Used
 
