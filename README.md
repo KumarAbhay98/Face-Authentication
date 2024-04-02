@@ -75,6 +75,10 @@ cd server
 npm install
 npm run dev
 ```
+
+##folder Structure:
+<img width="178" alt="folderstructuress" src="https://github.com/KumarAbhay98/Face-Authentication/assets/92244303/3b62f913-0cbe-4758-aeec-f207e01ce93c">
+
 This is a full-stack MERN (MongoDB, Express, React, Node.js) application that incorporates face recognition using face-api.js. The application allows users to register and login using their username and facial recognition.
 
 ### Technologies Used
