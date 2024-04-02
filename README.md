@@ -43,6 +43,15 @@ To run this application locally, follow these steps:
 5. Start the server: `npm start`
 6. Open your browser and navigate to `http://localhost:3000`
 
+   # Note
+
+I am currently in the process of troubleshooting deployment issues with this project. While the application functions flawlessly on my local machine, I have encountered difficulties deploying it on Vercel. Despite numerous attempts, I have been unable to resolve the issue, particularly regarding the CSS files not loading correctly on Vercel.
+
+Rest assured, I am actively working to rectify these issues. In the meantime, I have prepared a video demonstration showcasing the correct functionality of the application on my local environment. You can view the video [here](link-to-video).
+
+Your patience and understanding are greatly appreciated as I work to resolve these deployment issues.
+
+
 ## Deployment
 
 This application is deployed using Vercel. You can deploy your own instance by following these steps:
