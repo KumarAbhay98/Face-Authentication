@@ -1,0 +1,19 @@
+.placeholder-red::placeholder {
+    color: red;
+}
+
+input {
+    -webkit-box-shadow: -3px 1px 92px -10px rgba(201, 18, 18, 1);
+    -moz-box-shadow: -3px 1px 92px -10px rgba(201, 18, 18, 1);
+    box-shadow: -3px 1px 92px -10px rgba(201, 18, 18, 1);
+}
+.customNav{
+    background:linear-gradient(red,black);
+}
+.view{
+    background-color: black;
+    color:darkred;
+}
+.imageAvatar{
+    border:2px solid red;
+}
