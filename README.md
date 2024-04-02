@@ -79,6 +79,10 @@ npm run dev
 ## folder Structure:<br>
 <img width="178" alt="folderstructuress" src="https://github.com/KumarAbhay98/Face-Authentication/assets/92244303/3b62f913-0cbe-4758-aeec-f207e01ce93c">
 
+## MongoDB setup:
+<img width="959" alt="Screenshot 2024-04-02 203704" src="https://github.com/KumarAbhay98/Face-Authentication/assets/92244303/9c729d67-0ed7-441b-9fc5-f9ce0f006c57">
+
+
 This is a full-stack MERN (MongoDB, Express, React, Node.js) application that incorporates face recognition using face-api.js. The application allows users to register and login using their username and facial recognition.
 
 ### Technologies Used
